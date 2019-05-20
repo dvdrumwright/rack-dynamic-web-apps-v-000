@@ -1,4 +1,4 @@
-# Dynamic Web Apps with Rack
+rackup config.ru# Dynamic Web Apps with Rack
 
 ## Objectives
 
